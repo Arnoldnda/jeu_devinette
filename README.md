@@ -9,6 +9,15 @@ Ce projet est un jeu Java simple où l'utilisateur doit deviner un nombre entre 
 - Messages dynamiques selon la réponse
 - Limite à 10 essais
 
+## Exécution 
+
+1. Cloner le repo :
+   ```bash
+   git clone https://github.com/Arnoldnda/jeu_devinette.git
+2. Ouvrir avec IntelliJ ou tout autre IDE Java
+
+3. Exécuter Main.java
+
 ## Auteur 
 
 Berni ✌🏽
